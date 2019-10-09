@@ -15,5 +15,17 @@
 </head>
 
 <body>
+  
+  <header>
+    <div class="menu">
+      <a class="menuItem active" href="#">Home</a>
+      <a class="menuItem" href="#">Notícias</a>
+      <a class="menuItem" href="#">Cursos</a>
+      <a class="menuItem" href="#">Contato</a>
+      <a class="menuItem" href="#">Doação</a>
+    </div>
+  </header>
+  
   <h1>teste</h1>
+  
 </body>
