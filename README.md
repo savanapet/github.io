@@ -118,6 +118,7 @@
     <li>HostGator</li>
     <li>iConectados</li>
     <li>GoDaddy</li>
+    <li>LocaWeb</li>
   </ul>
   <p>Refêrencias:</p>
   <p>Pode-se entender um pouco do assunto pelo site: |https://www.techtudo.com.br/dicas-e-tutoriais/2018/04/melhor-hospedagem-de-sites-como-encontrar-a-melhor-opcao-para-voce.ghtml |</p>
