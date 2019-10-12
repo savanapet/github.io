@@ -62,7 +62,7 @@
     <li></li>
   </ul>
   
-  <h2>Estiliação de menu/barra de navegação</h2>
+  <h2>Estilização de menu/barra de navegação</h2>
   
 
 <script></script>
