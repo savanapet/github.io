@@ -113,6 +113,15 @@
     <li>Moodle</li>
   </ul>
   
+  <p>Servidores de Hospedagem</p>
+  <ul>
+    <li>HostGator</li>
+    <li>iConectados</li>
+    <li>GoDaddy</li>
+  </ul>
+  <p>Refêrencias:</p>
+  <p>Pode-se entender um pouco do assunto pelo site: |https://www.techtudo.com.br/dicas-e-tutoriais/2018/04/melhor-hospedagem-de-sites-como-encontrar-a-melhor-opcao-para-voce.ghtml |</p>
+  
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 </body>
