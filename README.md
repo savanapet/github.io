@@ -29,7 +29,6 @@
   <h1>Site em HTML</h1>
   <h2>Entendendo esqueleto padrão de doc. HTML</h2>
   <p>Entre no site do W3CSCHOOL para maiores info: https://www.w3schools.com/html/default.asp</p>
-  </br>
   
   <h2>Estiquetas META - Meta Tags</h2>
   <p>Acesse site do devmidia para maiores info: https://www.devmedia.com.br/html-meta-tags-entendendo-o-uso-de-meta-tags/30328</p>
@@ -41,7 +40,6 @@
     <li>KEYWORD</li>
   </ul>
   <p>OBS: VIEWPORT é documentada pelo bootstrap para responsividade.</p>
-  </br>
   
   <h2>Bibliotecas e Frameworks básicos para adicionar ao projeto</h2>
   <ul>
