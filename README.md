@@ -1,28 +1,19 @@
 
-<html lang="pt"><!-- infuenciam search engine -->
-<head>
+<html lang="pt"><!-- infuenciam search engine --><head>
   
-<!-- meta tags infuenciam search engine -->
-  <!-- name e http-env se complementam para informar navegador-->
-<meta charset="UTF-8"><!-- reconhecer caracteres e sinais pt-br -->
-<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
-<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
-<meta http-equiv="content-language" content="pt-br" />
-<meta name="description" content="Site sobre assuntos gerais do autor" />
-<meta name="viewport" content="width=device-width, initial-scale=1"/>
-<META NAME="KEYWORDS" CONTENT="artigo, site, github"/>
-<META NAME="ROBOTS" CONTENT="ALL"/>
-
-<!--<META NAME="GOOGLEBOT" CON TENT="NOARCHIVE"/>   esconder do buscador do google-->
-<!--<title>Home :: Programação Is Tudo - Pro IT</title>-->
-
+<!-- meta tags infuenciam search engine --><!-- name e http-env se complementam para informar navegador-->
+<meta charset="UTF-8" /><!-- reconhecer caracteres e sinais pt-br --><meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/><meta http-equiv="content-language" content="pt-br" />
+<meta name="description" content="Site sobre assuntos gerais do autor" /><meta name="viewport" content="width=device-width, initial-scale=1"/>
+<META NAME="KEYWORDS" CONTENT="artigo, site, github"/><META NAME="ROBOTS" CONTENT="ALL"/>
+<!--<META NAME="GOOGLEBOT" CON TENT="NOARCHIVE"/>   esconder do buscador do google--><!--<title>Home :: Programação Is Tudo - Pro IT</title>-->
+<!--Bootstrap e CSS-->
+<link rel= "stylesheet" href= "Bootstrap-3.3.2-dist/css/Bootstrap.min.css" /><link rel= "stylesheet" href= "Bootstrap-3.3.2-dist/css/Bootstrap-theme.min.css" /> 
 
 <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
 <link rel="stylesheet" href="style.css" />
 <link rel="image_src" href="images/title.png" />
-
 </head>
-
 <body>
   
   <header>
@@ -92,8 +83,8 @@
   
   <h2>Estilização de menu/barra de navegação</h2>
   
-  <h2>Estrutura de <i>Containers</i> do Bootstrap</h2>
+  <h2>Estrutura de <i>"Containers"</i> do Bootstrap</h2>
   
 
-<script></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 </body>
