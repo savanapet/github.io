@@ -49,6 +49,7 @@
     <li>VIEWPORT</li>
     <li>KEYWORD</li>
   </ul>
+  <p>OBS: VIEWPORT é documentada pelo bootstrap para responsividade.</p>
   </br>
   
   <h2>Bibliotecas e Frameworks básicos para adicionar ao projeto</h2>
@@ -63,12 +64,13 @@
     <li></li>
   </ul>
   
-  <p>Bootstrap</br>
-    1-MaxCDN:</br>
-      |https://maxcdn.Bootstrapcdn.com/Bootstrap/3.3.2/css/Bootstrap.min.css|</br>
-      |https://maxcdn.Bootstrapcdn.com/Bootstrap/3.3.2/css/Bootstrap-theme.min.css|</br>
-    2-Arquivo interno.</br>
-  </p>
+  <p>Bootstrap</p></br>
+    <ul>  
+      <li>  1-MaxCDN:</li>
+      <li>  |https://maxcdn.Bootstrapcdn.com/Bootstrap/3.3.2/css/Bootstrap.min.css|</li></br>
+      <li>  |https://maxcdn.Bootstrapcdn.com/Bootstrap/3.3.2/css/Bootstrap-theme.min.css|</li></br>
+      <li>  2-Arquivo interno.</li></br>
+    </ul>
   <p>JQuery</br>
     |https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js|</br>
     |https://maxcdn.Bootstrapcdn.com/Bootstrap/3.3.2/js/Bootstrap.min.js|</br>
