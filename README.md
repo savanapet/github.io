@@ -109,7 +109,7 @@
     <li>LOJA VIRTUAL</li>
     <li>Magento</li>
     <li>--</li>
-    <li>Educacional</li>
+    <li>EDUCACIONAL</li>
     <li>Moodle</li>
   </ul>
   
