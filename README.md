@@ -63,15 +63,15 @@
     <li></li>
   </ul>
   
-  <p>Bootstrap
-    1-MaxCDN:
-      |https://maxcdn.Bootstrapcdn.com/Bootstrap/3.3.2/css/Bootstrap.min.css|
-      |https://maxcdn.Bootstrapcdn.com/Bootstrap/3.3.2/css/Bootstrap-theme.min.css|
-    2-Arquivo interno.
+  <p>Bootstrap</br>
+    1-MaxCDN:</br>
+      |https://maxcdn.Bootstrapcdn.com/Bootstrap/3.3.2/css/Bootstrap.min.css|</br>
+      |https://maxcdn.Bootstrapcdn.com/Bootstrap/3.3.2/css/Bootstrap-theme.min.css|</br>
+    2-Arquivo interno.</br>
   </p>
-  <p>JQuery
-    |https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js|
-    |https://maxcdn.Bootstrapcdn.com/Bootstrap/3.3.2/js/Bootstrap.min.js|
+  <p>JQuery</br>
+    |https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js|</br>
+    |https://maxcdn.Bootstrapcdn.com/Bootstrap/3.3.2/js/Bootstrap.min.js|</br>
   </p>
   
   <h2>Estilização de menu/barra de navegação</h2>
