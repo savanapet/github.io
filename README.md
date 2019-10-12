@@ -20,7 +20,7 @@
     <div class="menu">
       <a class="menuItem active" href="#">Home</a>
       <a class="menuItem" href="#">Notícias</a>
-      <a class="menuItem" href="#">Cursos</a>
+      <a class="menuItem" href="#">Linguagens</a>
       <a class="menuItem" href="#">Contato</a>
       <a class="menuItem" href="#">Doação</a>
     </div>
@@ -82,8 +82,20 @@
   <p>Para entender melhor pode utilizar o link da imagem do site DEVMIDIA: |https://arquivo.devmedia.com.br/REVISTAS/front_end/imagens/edicao5/1/4.png |</p>
   
   <h2>Estilização de menu/barra de navegação</h2>
+  <p>Vídeos de Exemplo</p>
+  <ul>
+    <li>--</li>
+    <li>--</li>
+    <li>--</li>
+  </ul>
   
   <h2>Estrutura de <i>"Containers"</i> do Bootstrap</h2>
+  <p>Vídeos de Exemplo</p>
+  <ul>
+    <li>--</li>
+    <li>--</li>
+    <li>--</li>
+  </ul>
   
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
