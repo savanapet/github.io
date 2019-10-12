@@ -67,14 +67,16 @@
   <p>Bootstrap</p></br>
     <ul>  
       <li>  1-MaxCDN:</li>
-      <li>  |https://maxcdn.Bootstrapcdn.com/Bootstrap/3.3.2/css/Bootstrap.min.css |</li></br>
-      <li>  |https://maxcdn.Bootstrapcdn.com/Bootstrap/3.3.2/css/Bootstrap-theme.min.css |</li></br>
-      <li>  2-Arquivo interno.</li></br>
+      <li>  |https://maxcdn.Bootstrapcdn.com/Bootstrap/3.3.2/css/Bootstrap.min.css |</li>
+      <li>  |https://maxcdn.Bootstrapcdn.com/Bootstrap/3.3.2/css/Bootstrap-theme.min.css |</li>
+      <li>  2-Arquivo interno.</li>
     </ul>
   <p>JQuery</p></br>
     <ul>
+      <li>  1-MaxCDN:</li>
       <li>  |https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js |</li>
       <li>  |https://maxcdn.Bootstrapcdn.com/Bootstrap/3.3.2/js/Bootstrap.min.js |</li>
+      <li>  2-Arquivo interno.</li>
     </ul>
   
   <h2>Estilização de menu/barra de navegação</h2>
