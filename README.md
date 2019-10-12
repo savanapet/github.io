@@ -84,7 +84,15 @@
   <p>Principal: https://getbootstrap.com/docs/4.3/getting-started/download/</p>
   <p>Checar o site do DEVMIDIA para mais comentários do BT: https://www.devmedia.com.br/criando-um-site-completo-com-bootstrap-e-jquery/32473</p>
   
+  <p>Conceito de Saas e Less</p>
+  <p>--</p>
+  
+  <p>Estruturação de pastas CSS/JS do bootstrap:</p>
+  <p>Para entender melhor pode utilizar o link da imagem do site DEVMIDIA: |https://arquivo.devmedia.com.br/REVISTAS/front_end/imagens/edicao5/1/4.png |</p>
+  
   <h2>Estilização de menu/barra de navegação</h2>
+  
+  <h2>Estrutura de <i>Containers</i> do Bootstrap</h2>
   
 
 <script></script>
