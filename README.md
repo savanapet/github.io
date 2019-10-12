@@ -67,8 +67,7 @@
       <li>  |https://maxcdn.Bootstrapcdn.com/Bootstrap/3.3.2/js/Bootstrap.min.js |</li>
       <li>  2-Arquivo interno.</li>
     </ul>
-  <p>OBS: Os arquivos min(minificados) são versões menores, ou com menos código.</p>
-  <p>Logo se teu site rodar sem o principal, ele fica mais enchuto ou mais leve a ser carregado.</p>
+  <p>OBS: Os arquivos min(minificados) são versões menores, ou com menos código.Logo se teu site rodar sem o principal, ele fica mais enchuto ou mais leve a ser carregado.</p>
   <p>Referência:</p>
   <p>Principal: https://getbootstrap.com/docs/4.3/getting-started/download/</p>
   <p>Checar o site do DEVMIDIA para mais comentários do BT: https://www.devmedia.com.br/criando-um-site-completo-com-bootstrap-e-jquery/32473</p>
