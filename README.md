@@ -51,14 +51,15 @@
   </ul>
   </br>
   
-  <h2>Bibliotecas básicas para adicionar ao projeto</h2>
+  <h2>Bibliotecas e Frameworks básicos para adicionar ao projeto</h2>
   <ul>
     <li>CSS</li>
     <li>JS</li>
+    <li>Imagens</li>
+    <li>--</li>
     <li>Bootstrap</li>
     <li>JQuery</li>
     <li>Ajax</li>
-    <li>Imagens</li>
     <li></li>
   </ul>
   
