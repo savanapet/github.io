@@ -8,7 +8,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
 <meta http-equiv="content-language" content="pt-br" />
-<meta name="description" content="Site sobre assuntos gerais do autor” />
+<meta name="description" content="Site sobre assuntos gerais do autor" />
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
 <META NAME="KEYWORDS" CONTENT="artigo, site, github"/>
 <META NAME="ROBOTS" CONTENT="ALL"/>
