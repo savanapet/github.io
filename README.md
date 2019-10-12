@@ -35,8 +35,35 @@
     </div>
   </header>
   
-  <h1>teste</h1>
-
+  <h1>Site em HTML</h1>
+  <h2>Entendendo esqueleto padrão de doc. HTML</h2>
+  <p>Entre no site do W3CSCHOOL para maiores info: https://www.w3schools.com/html/default.asp</p>
+  </br>
+  
+  <h2>Estiquetas META - Meta Tags</h2>
+  <p>Acesse site do devmidia para maiores info: https://www.devmedia.com.br/html-meta-tags-entendendo-o-uso-de-meta-tags/30328</p>
+  <p>Etiquetas meta mais iportantes:</p>
+  <ul>
+    <li>X-UA-Compatible</li>
+    <li>HTTP-ENV</li>
+    <li>VIEWPORT</li>
+    <li>KEYWORD</li>
+  </ul>
+  </br>
+  
+  <h2>Bibliotecas básicas para adicionar ao projeto</h2>
+  <ul>
+    <li>CSS</li>
+    <li>JS</li>
+    <li>Bootstrap</li>
+    <li>JQuery</li>
+    <li>Ajax</li>
+    <li>Imagens</li>
+    <li></li>
+  </ul>
+  
+  <h2>Estiliação de menu/barra de navegação</h2>
+  
 
 <script></script>
 </body>
